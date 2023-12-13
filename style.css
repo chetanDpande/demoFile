@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    background-color: grey;
+    width: 100%;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-right:200px ;
+}
+.cot{
+    height:400px;
+    overflow: hidden;
+}
